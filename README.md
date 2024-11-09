@@ -1,8 +1,5 @@
 ## Description [EN]
 # QlistGoStyle_and_AdjustImage_Lua_scripts
-This repository contains Lua scripts designed for OBS Studio, focused on managing live presentations and shows.
-
-# Lua Scripts for OBS Studio in Live Presentations
 
 This repository contains two Lua scripts designed to enhance the user experience of OBS Studio in live presentations, such as theater, conferences, and other live events.
 
@@ -86,8 +83,6 @@ This project uses code from [OBS-next-scene-hotkey](https://github.com/SimonGZ/O
 
 ## Descripció [CA]
 # QlistGoStyle_and_AdjustImage_Lua_scripts
-Aquest repositori conté scripts en Lua dissenyats per a OBS Studio, enfocats en la gestió de presentacions en viu, live shows
-# Scripts Lua per OBS Studio en Presentacions en Viu
 
 Aquest repositori conté dos scripts Lua dissenyats per millorar l'experiència d'ús d'OBS Studio en presentacions en viu, com ara teatre, conferències i altres esdeveniments en directe.
 
