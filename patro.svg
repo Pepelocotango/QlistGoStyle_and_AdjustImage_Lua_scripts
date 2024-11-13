@@ -1,0 +1,60 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Marc exterior -->
+  <rect x="0" y="0" width="1920" height="1080" fill="none" stroke="white" stroke-width="5"/>
+
+  <!-- Retícula de quadrats 8x4 -->
+  <g stroke="white" stroke-width="2">
+    <!-- Quadrats horitzontals (8 columnes) -->
+    <line x1="240" y1="0" x2="240" y2="1080"/>
+    <line x1="480" y1="0" x2="480" y2="1080"/>
+    <line x1="720" y1="0" x2="720" y2="1080"/>
+    <line x1="960" y1="0" x2="960" y2="1080"/>
+    <line x1="1200" y1="0" x2="1200" y2="1080"/>
+    <line x1="1440" y1="0" x2="1440" y2="1080"/>
+    <line x1="1680" y1="0" x2="1680" y2="1080"/>
+
+    <!-- Quadrats verticals (4 files) -->
+    <line x1="0" y1="270" x2="1920" y2="270"/>
+    <line x1="0" y1="540" x2="1920" y2="540"/>
+    <line x1="0" y1="810" x2="1920" y2="810"/>
+  </g>
+
+  <!-- Cercles centrats dins dels quadrats -->
+  <g fill="none" stroke="white" stroke-width="2">
+    <circle cx="120" cy="135" r="120"/>
+    <circle cx="360" cy="135" r="120"/>
+    <circle cx="600" cy="135" r="120"/>
+    <circle cx="840" cy="135" r="120"/>
+    <circle cx="1080" cy="135" r="120"/>
+    <circle cx="1320" cy="135" r="120"/>
+    <circle cx="1560" cy="135" r="120"/>
+    <circle cx="1800" cy="135" r="120"/>
+
+    <circle cx="120" cy="405" r="120"/>
+    <circle cx="360" cy="405" r="120"/>
+    <circle cx="600" cy="405" r="120"/>
+    <circle cx="840" cy="405" r="120"/>
+    <circle cx="1080" cy="405" r="120"/>
+    <circle cx="1320" cy="405" r="120"/>
+    <circle cx="1560" cy="405" r="120"/>
+    <circle cx="1800" cy="405" r="120"/>
+
+    <circle cx="120" cy="675" r="120"/>
+    <circle cx="360" cy="675" r="120"/>
+    <circle cx="600" cy="675" r="120"/>
+    <circle cx="840" cy="675" r="120"/>
+    <circle cx="1080" cy="675" r="120"/>
+    <circle cx="1320" cy="675" r="120"/>
+    <circle cx="1560" cy="675" r="120"/>
+    <circle cx="1800" cy="675" r="120"/>
+
+    <circle cx="120" cy="945" r="120"/>
+    <circle cx="360" cy="945" r="120"/>
+    <circle cx="600" y="945" r="120"/>
+    <circle cx="840" y="945" r="120"/>
+    <circle cx="1080" y="945" r="120"/>
+    <circle cx="1320" y="945" r="120"/>
+    <circle cx="1560" y="945" r="120"/>
+    <circle cx="1800" y="945" r="120"/>
+  </g>
+</svg>
