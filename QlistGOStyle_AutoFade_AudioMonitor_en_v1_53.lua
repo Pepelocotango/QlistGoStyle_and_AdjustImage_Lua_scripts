@@ -389,11 +389,11 @@ function script_update(settings)
 end
 
 function script_defaults(settings)
-    obs.obs_data_set_default_bool(settings, "verbose_logging", true)
+    obs.obs_data_set_default_bool(settings, "verbose_logging", false)
     obs.obs_data_set_default_bool(settings, "loop", true)
     obs.obs_data_set_default_bool(settings, "preview", true)
     obs.obs_data_set_default_bool(settings, "fade_enabled", true)
-    obs.obs_data_set_default_int(settings, "fade_steps", 20)
+    obs.obs_data_set_default_int(settings, "fade_steps", 30)
     obs.obs_data_set_default_int(settings, "monitoring_type", obs.OBS_MONITORING_TYPE_MONITOR_AND_OUTPUT)
     obs.obs_data_set_default_bool(settings, "active_monitoring", true)
     obs.obs_data_set_default_bool(settings, "cancel_fade_on_transition", true)

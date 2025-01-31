@@ -25,6 +25,11 @@ function script_properties()
     return props
 end
 
+-- Function to set default values
+function script_defaults(settings)
+    obs.obs_data_set_default_bool(settings, "verbose_logging", false)  -- Set to false to disable logging by default
+end
+
 -- Funció per actualitzar la configuració
 function script_update(settings)
     VERBOSE = obs.obs_data_get_bool(settings, "verbose_logging")
