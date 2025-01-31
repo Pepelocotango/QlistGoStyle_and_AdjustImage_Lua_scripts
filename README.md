@@ -56,6 +56,7 @@ These scripts have been tested in the following environments:
 - Windows 10 (64-bit)
 - Linux Ubuntu MATE 20.04.6 LTS (Focal Fossa) (64-bit)
 - OBS Studio version 30.0.2 (64-bit)
+- OBS Studio version 31.0.1 (64-bit)
 
 **Note:** These scripts have not been tested on macOS.
 
@@ -139,6 +140,7 @@ Aquests scripts han estat provats en els següents entorns:
 - Windows 10 (64-bit)
 - Linux Ubuntu MATE 20.04.6 LTS (Focal Fossa) (64-bit)
 - OBS Studio version 30.0.2 (64-bit)
+- OBS Studio version 31.0.1 (64-bit)
 
 **Nota:** Aquests scripts no han estat provats en macOS..
 
