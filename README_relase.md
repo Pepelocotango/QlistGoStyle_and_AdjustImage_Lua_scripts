@@ -1,7 +1,7 @@
 ## Description [EN]
 # QlistGoStyle_and_AdjustImage_Lua_scripts
 
-This Release contains two Lua scripts designed to enhance the user experience of OBS Studio in live presentations, such as theater, conferences, and other live events.
+This Release contains two Lua scripts designed to enhance the user experience of OBS Studio, in live presentations, such as theater, conferences, and other live events.
 
 ## Project Status
 
