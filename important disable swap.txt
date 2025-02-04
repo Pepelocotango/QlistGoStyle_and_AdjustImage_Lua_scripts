@@ -1,0 +1,9 @@
+Perfecte, aquí tens les descripcions més concises per al teu readme:
+
+Català:
+
+IMPORTANT: Desactiveu l'opció 'Intercanvia Escenes de Previsualització/Programa després de la Transició' al menú 'Transició' d'OBS Studio per assegurar el funcionament correcte dels scripts. Això evita canvis inesperats en l'ordre de les escenes.
+
+Anglès:
+
+IMPORTANT: Disable the 'Swap Preview/Program Scenes After Transitioning' option in the OBS Studio 'Transition' menu to ensure correct script operation. This prevents unexpected changes in the scene order.
