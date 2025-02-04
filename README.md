@@ -42,6 +42,7 @@ An advanced script that provides various functionalities to improve the quality 
 - No additional action is required from the user.
 
 ### QlistGOStyle AutoFade AudioMonitor
+IMPORTANT: Disable the 'Swap Preview/Program Scenes After Transitioning' option in the OBS Studio 'Transition' menu to ensure correct script operation. This prevents unexpected changes in the scene order.
 - Automatic Transition and Fade Out for audio/video sources and Next/Previous Scene Change using hotkeys
 - Fade out will be automatically applied to audio sources when changing scenes.
 - Audio monitoring will be automatically adjusted for all audio/video sources.
@@ -126,6 +127,7 @@ Un script avançat que proporciona diverses funcionalitats per millorar la quali
 - No es requereix cap acció addicional per part de l'usuari.
 
 ### QlistGOStyle AutoFade AudioMonitor
+IMPORTANT: Desactiveu l'opció 'Intercanvia Escenes de Previsualització/Programa després de la Transició' al menú 'Transició' d'OBS Studio per assegurar el funcionament correcte dels scripts. Això evita canvis inesperats en l'ordre de les escenes.
 - Transition and Fade Out Automàtic per a fonts d'àudio/video i Canvi d'Escena Següent/Anterior mitjançant tecles d'accés ràpid
 - El fade out s'aplicarà automàticament a les fonts d'àudio quan canviïs d'escena.
 - La monitorització d'àudio s'ajustarà automàticament per a totes les fonts de audio/vídeo.
