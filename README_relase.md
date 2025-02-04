@@ -3,10 +3,6 @@
 
 This Release contains two Lua scripts designed to enhance the user experience of OBS Studio, in live presentations, such as theater, conferences, and other live events.
 
-## Project Status
-
-These scripts are currently under review for official inclusion in the OBS Studio community. The approval process is managed by the core developers of the OBS Project, who evaluate the scripts to ensure their quality, security, and usefulness to the community. While we await this approval, users can test the scripts at their own risk.
-
 ## Included Scripts
 
 ### 1. Adjust image or video to screen (v1.8)
@@ -86,10 +82,6 @@ This project uses code from [OBS-next-scene-hotkey](https://github.com/SimonGZ/O
 # QlistGoStyle_and_AdjustImage_Lua_scripts
 
 Aquesta publicació conté dos scripts Lua dissenyats per millorar l'experiència d'ús d'OBS Studio en presentacions en viu, com ara teatre, conferències i altres esdeveniments en directe.
-
-## Estat del projecte
-
-Aquests scripts es troben actualment en fase de revisió per a la seva inclusió oficial a la comunitat d'OBS Studio. El procés d'aprovació és gestionat pel grup de desenvolupadors principals d'OBS Project, que avaluen els scripts per assegurar-ne la qualitat, seguretat i utilitat per a la comunitat. Mentre esperem aquesta aprovació, els usuaris poden provar els scripts sota la seva pròpia responsabilitat.
 
 ## Scripts Inclosos
 
